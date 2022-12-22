@@ -1,0 +1,30 @@
+{
+    "originPlace": [0, 0],
+    "mapDiscription": [
+        [
+            {
+                "North": {
+                    "description": "厚实的松木板覆盖的墙壁，摆放着一张松软的木底沙发，一张桌面是原木的茶几，墙上挂着一盏烛台",
+                    "items": {
+                        "木底沙发": {
+                            "type": "sofa",
+                            "description": "桦木底的沙发，样式在附近相当常见，是节牧和堕白亲手制作的。上面的绿色松软坐垫上印着白色斑点。",
+                            "mobile": false
+                        },
+                        "原木茶几": {
+                            "type": "table",
+                            "description": "整洁的桌面，散发着松木的清香。",
+                            "subItems": [],
+                            "mobile": false
+                        },
+                        "烛台": {
+                            "type": "other",
+                            "description": "简易的黄铜烛台，摆放的黄色蜡烛正发出明亮的光。也许节牧用魔法对它进行了亮度调整。",
+                            "mobile": false
+                        }
+                    }
+                }
+            }
+        ] 
+    ]
+}
